@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+   <body>
+
+   <pre style="word-wrap: break-word; white-space: pre-wrap;">
+
+      What happens when you initialize a repository? Why do you need to do it?
+        When you initialize a repository your able to start making commits in on the files.
+        It shows the hidden .git files as well.
+
+      How is the staging area different from the working directory and the repository?
+      What value do you think it offers?
+
+        The staging area is different from the working directory and the repository
+        by being able to pick and choose which files to be committed. I think this
+        is very helpful because you can bundle a couple of files to be committed or a
+        single file depending on your preference.
+
+
+      How can you use the staging area to make sure you have one commit per logical
+      change?
+
+
+      What are some situations when branches would be helpful in keeping your history
+      organized? How would branches help?
+
+
+      How do the diagrams help you visualize the branch structure?
+
+
+      What is the result of merging two branches together? Why do we represent it in
+      the diagram the way we do?
+
+
+      What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+      manually?
+
+  </pre>
+ </body>
+</html>

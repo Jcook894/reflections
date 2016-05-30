@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  </head>
+  <body>
+    <pre style="word-wrap: break-word; white-space: pre-wrap;">
+
+  How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  It helped me see the bug by putting the 2 files together and pointing out the
+  the changes in the files. Instead of going through each file looking for the
+  error.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+  Having an easy access to the entire history of a file will make me a better programmer
+  by having the ability to look back on how the file originally looked liked if further edits where
+  done to it.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+  The pros of being able to manually commit because you can create a commit whenever you feel is necessary.
+  But the downside of being able to commit manually is that you never know when a commit could be too big or too small
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+  I think that git allows users to save multiple files in git so you are able to put in your repository
+  and also make it easier too commit the files instead of going through each file and saving it.
+
+How can you use the commands git log and git diff to view the history of files?
+
+ By using those commands I am able too view all the commits made too the files and even
+ compare each commits done to that file.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+  Using version control makes me more confident to make changes that could break something
+  by letting me go back to what the original file was before the bug and be able to see where I went wrong
+  and fix it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  I would like to use git to help me start building websites and begin my career as a front end web
+  developer!
+
+  </pre>
+  </body>
+</html>
