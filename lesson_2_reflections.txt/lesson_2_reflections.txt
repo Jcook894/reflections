@@ -50,6 +50,10 @@
       What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
       manually?
 
+          The pros of automatically merging is that it will take the files and put them together without going in
+          and changing the files by hand. but you may come across 2 different changes and its hard for it to merge.
+          
+
   </pre>
  </body>
 </html>
