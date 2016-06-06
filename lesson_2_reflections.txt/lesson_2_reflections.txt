@@ -35,11 +35,16 @@
       How do the diagrams help you visualize the branch structure?
 
         The diagrams helped me visualize the branch structure by showing me how the recent commit has
-        a parent commit and you can trace that commit to the initial commit. 
+        a parent commit and you can trace that commit to the initial commit.
 
 
       What is the result of merging two branches together? Why do we represent it in
       the diagram the way we do?
+
+          The result of merging two branches together is that they combine both of the branches history
+          and they sort them by the time they were committed. It is better represented in a diagram because
+          you can show which branches have certain commits or which branches are merged, even follow the
+          diagram to the first commit made.
 
 
       What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
